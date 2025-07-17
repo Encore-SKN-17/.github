@@ -23,6 +23,7 @@ class Teacher:
 | database | [SQL basic lecture sources](https://github.com/Encore-SKN-17/database.git) |
 | web crawling | [Web Crawling lecture sources](https://github.com/Encore-SKN-17/web_crawling.git) |
 | data science | [Data Analysis lecture sources](https://github.com/Encore-SKN-17/data_analysis.git) |
+| data science | [Machine Learning lecture sources](https://github.com/Encore-SKN-17/machine_learning.git) |
 
 <br><br><br>
 
@@ -30,3 +31,5 @@ class Teacher:
 
 | Chapter | Repository |
 | ------ | ------ |
+| EDA practice | [데이터 분석 기초 및 EDA 실습](https://github.com/Encore-SKN-17/eda_practice) |
+

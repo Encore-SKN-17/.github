@@ -33,5 +33,5 @@ class Teacher:
 | ------ | ------ |
 | EDA practice | [데이터 분석 기초 및 EDA 실습](https://github.com/Encore-SKN-17/eda_practice) |
 | EDA mini project | [1TEAM](https://github.com/Encore-SKN-17/EDA_MINI_1TEAM) / [2TEAM](https://github.com/Encore-SKN-17/EDA_MINI_2TEAM) / [3TEAM](https://github.com/Encore-SKN-17/EDA_MINI_3TEAM) / [4TEAM](https://github.com/Encore-SKN-17/EDA_MINI_4TEAM) / [5TEAM](https://github.com/Encore-SKN-17/EDA_MINI_5TEAM) / [6TEAM](https://github.com/Encore-SKN-17/EDA_MINI_6TEAM) |
-
+| ML mini project | [1TEAM](https://github.com/Encore-SKN-17/ML_MINI_1TEAM) / [2TEAM](https://github.com/Encore-SKN-17/ML_MINI_2TEAM) / [3TEAM](https://github.com/Encore-SKN-17/ML_MINI_3TEAM) / [4TEAM](https://github.com/Encore-SKN-17/ML_MINI_4TEAM) / [5TEAM](https://github.com/Encore-SKN-17/ML_MINI_5TEAM) / [6TEAM](https://github.com/Encore-SKN-17/ML_MINI_6TEAM) |
 

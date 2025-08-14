@@ -25,6 +25,7 @@ class Teacher:
 | data science | [Data Analysis lecture sources](https://github.com/Encore-SKN-17/data_analysis.git) |
 | meachine learning | [ML lecture sources](https://github.com/Encore-SKN-17/machine_learning.git) |
 | deep learning basic | [DL lecture sources](https://github.com/Encore-SKN-17/deep_learning.git) |
+| natural language processing | [NLP lecture sources](https://github.com/Encore-SKN-17/natural_language_processing.git) |
 
 <br><br><br>
 

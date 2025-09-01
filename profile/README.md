@@ -26,7 +26,7 @@ class Teacher:
 | meachine learning | [ML lecture sources](https://github.com/Encore-SKN-17/machine_learning.git) |
 | deep learning basic | [DL lecture sources](https://github.com/Encore-SKN-17/deep_learning.git) |
 | natural language processing | [NLP lecture sources](https://github.com/Encore-SKN-17/natural_language_processing.git) |
-| larget language model | [LLM lecture sources](https://github.com/Encore-SKN-17/large_language_model.git) |
+| large language model | [LLM lecture sources](https://github.com/Encore-SKN-17/large_language_model.git) |
 
 <br><br><br>
 

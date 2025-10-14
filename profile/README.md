@@ -28,6 +28,7 @@ class Teacher:
 | natural language processing | [NLP lecture sources](https://github.com/Encore-SKN-17/natural_language_processing.git) |
 | large language model | [LLM lecture sources](https://github.com/Encore-SKN-17/large_language_model.git) |
 | front end | [화면구현 lecture sources](https://github.com/Encore-SKN-17/front_end.git) |
+| back end | [Django Framework lecture sources](https://github.com/Encore-SKN-17/back_end.git) |
 
 <br><br><br>
 
